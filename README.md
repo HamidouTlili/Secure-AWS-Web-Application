@@ -10,7 +10,7 @@ This repository documents a comprehensive AWS-based security project, demonstrat
 
 This diagram summarizes the full AWS setup for the project:
 
-![AWS Project Architecture](images/architecture-diagram.png)
+![AWS Project Architecture](Untitled diagram _ Mermaid Chart-2025-07-02-154514.png)
 
 
 - **CyberSecurityVPC** (CIDR: `10.0.0.0/16`)
